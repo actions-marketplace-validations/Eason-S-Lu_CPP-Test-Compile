@@ -2,6 +2,8 @@
 
 name: C++ code tester
 description: Compile and test c++ file
+branding.color:
+branding.icon: check-circle
 
 on:
   pull_request:

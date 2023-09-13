@@ -1,7 +1,7 @@
 #Change main.cpp to the cpp file you want to compile
 
 name: C++ compile tester
-description:Compile and test c++ file
+description: Compile and test c++ file
 
 on:
   pull_request:

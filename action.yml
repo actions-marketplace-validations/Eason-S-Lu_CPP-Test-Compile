@@ -2,7 +2,9 @@
 
 name: C++ code tester
 description: Compile and test c++ file
-branding.color:
+color: blue
+icon: check-circle
+branding.color: blue
 branding.icon: check-circle
 
 on:
